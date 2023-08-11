@@ -1,0 +1,92 @@
+.body {
+    font-size: 6rem;
+}
+#first-row {
+    display: flex;
+   line-height: 6;
+   
+}
+#table-block-1 {
+    color:white;
+    background: red;
+    border: 3px solid black;
+    width: 600px;
+    height: 100px;
+
+}
+#table-block-2 {
+    color:white;
+    background: blue;
+    border: 3px solid black;
+    width: 599px;
+    height: 100px;
+    
+}
+#second-row {
+    display: flex;
+    line-height: 6;
+}
+
+#table-block-3 {
+    text-align: center;
+    color:white;
+    background: red;
+    border: 3px solid black;
+    width: 297px;
+    height: 100px;
+    
+}
+
+#table-block-4 {
+    text-align: center;
+    color:white;
+    background: blue;
+    border: 3px solid black;
+    width: 297px;
+    height: 100px;
+    
+}#table-block-5 {
+    text-align: center;
+    color:white;
+    background: red;
+    border: 3px solid black;
+    width: 297px;
+    height: 100px;
+    
+}#table-block-6 {
+    text-align: center;
+    color:white;
+    background: blue;
+    border: 3px solid black;
+    width: 300px;
+    height: 100px;
+    
+}
+#third-row {
+    display: flex;
+    line-height: 6;
+}
+#table-block-7 {
+    color:white;
+    background: red;
+    border: 3px solid black;
+    width: 400px;
+    height: 100px;
+    }
+    
+#table-block-8 {
+    color:white;
+    background: blue;
+    border: 3px solid black;
+    width: 400px;
+    height: 100px;
+    
+}
+#table-block-9 {
+    color:white;
+    background: red;
+    border: 3px solid black;
+    width: 395px;
+    height: 100px;
+    
+}
